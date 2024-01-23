@@ -1,5 +1,3 @@
-import 'function.dart';
-
 void main(){
   var name = 'Fiti';
 
